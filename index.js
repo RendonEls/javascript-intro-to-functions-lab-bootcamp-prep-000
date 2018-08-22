@@ -29,4 +29,5 @@ function sayHiToGrandma(string) {
 }
 
 sayHiToGrandma("hello")
-sayHiToGrandma()
+sayHiToGrandma("CAN YOU HEAR ME NOW!?")
+sayHiToGrandma("I love you, Grandma.")
