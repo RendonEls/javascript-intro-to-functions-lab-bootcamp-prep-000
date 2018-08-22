@@ -23,5 +23,5 @@ function logWhisper(string) {
 logWhisper("THIS WAS A SHOUTING COMMAND")
 
 function sayHiToGrandma(string) {
-  return 
+ if string return 
 }
