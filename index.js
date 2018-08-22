@@ -15,3 +15,7 @@ function logShout(string) {
 }
 
 logShout("this is a whisper turned into a shout")
+
+function logWhisper(string) {
+  return
+}
