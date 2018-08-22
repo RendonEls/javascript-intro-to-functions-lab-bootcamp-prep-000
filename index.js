@@ -17,5 +17,8 @@ function logShout(string) {
 logShout("this is a whisper turned into a shout")
 
 function logWhisper(string) {
-  return
+  return console.log(string.toLowerCase())
 }
+
+logWhisper("THIS WAS A SHOUTING COMMAND")
+
