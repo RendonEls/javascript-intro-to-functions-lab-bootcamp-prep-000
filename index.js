@@ -23,5 +23,5 @@ function logWhisper(string) {
 logWhisper("THIS WAS A SHOUTING COMMAND")
 
 function sayHiToGrandma(string) {
- if (string === .toLowerCase 
+ if (string === string.toLowerCase()
 }
