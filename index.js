@@ -11,5 +11,5 @@ function whisper(string) {
 whisper("THIS SHOULD BE IN CAPS BUT NOW LOWERCASE")
 
 function logShout(string) {
-  return console.log
+  return console.log(string.toUpperCase)
 }
